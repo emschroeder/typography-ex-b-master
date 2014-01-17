@@ -1,5 +1,16 @@
 /* Your Website Styles */
 
+h1 {
+	font-family: 'Butcherman', cursive;
+}
+
+h3 {
+	font-family: 'Bowlby One', cursive;
+}
+
+p {
+	font-family: 'Inconsolata', sans-serif;
+}
 
 /* Show Grid */
 .showgrid {
